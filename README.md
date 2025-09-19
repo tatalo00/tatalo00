@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tatalo00
-- 👀 I’m interested in Computer science and electrical engineering.
-- 🌱 I’m currently learning cryptography, C++, also trying to understand blockchain technology.
+- 👀 I’m interested in Data Science and Deep Learning
+- 🌱 I’m currently enrolled in MSc in Computer Science (track: Artificial Intelligence), at Politecnico di Milano
 - 📫 You can reach me through my LinkedIn account https://www.linkedin.com/in/tatalovicveljko/
 
 <!---
